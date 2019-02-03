@@ -138,4 +138,8 @@ pronto! sem retrabalho e sem rescrever codigo. Tudo funcionara perfeitamente!
 
 #### OBS 
 Com isso sua aplicação ficara um pouco parecida como frameworks famosos, como laravel por exemplo
-faz para guardar os dados, usando uma estrutura limpa e totalmente reutilizável
+faz para guardar os ados, usando uma estrutura limpa e totalmente reutilizável
+
+#### Créditos 
+    Para o aprendizado, foi consultado o ótimo livro de php
+    do Pablo Dall'Oglio, php : Programando com orientação a objetos
